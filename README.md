@@ -12,3 +12,7 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 -2026-02-11: Practice Python data types and variable manipulation.
 
 -2026-02-12: Practice Python operators
+
+-2026-02-13: Make changes in operators.py(add annotations)
+
+-2026-02-13: Practice Python math expressions, numeric functions, and import math library
