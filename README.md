@@ -44,3 +44,7 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 
 -2026-02-23: Practiced Python functions basics etc. how it works, giving inputs and printing outputs, setting defaults
 
+-2026-02-23: Practiced Python arguments and variables etc. keyword args, arbitrary args, and local and global variables
+
+-2026-02-23: Solved the following quiz on Python function
+
