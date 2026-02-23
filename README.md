@@ -42,3 +42,5 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 
 -2026-02-20: Solved the following quiz using random library and Python statements 
 
+-2026-02-23: Practiced Python functions basics etc. how it works, giving inputs and printing outputs, setting defaults
+
