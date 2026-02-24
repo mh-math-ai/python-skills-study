@@ -48,3 +48,6 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 
 -2026-02-23: Solved the following quiz on Python function
 
+-2026-02-24: Practiced various Python i/o formatting, file i/o, pickle, and with 
+
+-2026-02-24: Solved Python file i/o quiz 
