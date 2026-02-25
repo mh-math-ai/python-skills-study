@@ -51,3 +51,5 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 -2026-02-24: Practiced various Python i/o formatting, file i/o, pickle, and with 
 
 -2026-02-24: Solved Python file i/o quiz 
+
+-2026-02-25: Practiced Python class, its use, init function and instance attribute 
