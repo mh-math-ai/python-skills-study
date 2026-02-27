@@ -53,3 +53,6 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 -2026-02-24: Solved Python file i/o quiz 
 
 -2026-02-25: Practiced Python class, its use, init function and instance attribute 
+
+-2026-02-27: Studied deeper upon Python classes, etc, method, and inheritance 
+
