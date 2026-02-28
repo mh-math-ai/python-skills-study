@@ -56,3 +56,5 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 
 -2026-02-27: Studied deeper upon Python classes, etc, method, and inheritance 
 
+-2026-02-28: Practiced  multiple inheritance, and method overriding with examples
+
