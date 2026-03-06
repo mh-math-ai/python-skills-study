@@ -58,4 +58,10 @@ Learning repository focused on Python skills to cover the intersection of Advanc
 
 -2026-02-28: Practiced Python multiple inheritance, and method overriding with examples
 
--2026-02-28: Practiced Python pass, and super 
+-2026-02-28: Practiced Python pass, and super
+
+-2026-03-06: Practiced object-oriented program with Starcraft inspired units, using inheritance, class variable, etc.
+
+-2026-03-06: Wrote two codes for the quiz to make real estate program, one is more object-oriented, and the other is more direct, and simple 
+
+
