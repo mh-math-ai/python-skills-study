@@ -4,7 +4,7 @@ Numerical index related to personal summary on Composing Programs(https://www.co
 
 -2026-04-11: hw2.py cs61a hw2 
 
--2026-04-10:04.higher-order_function.py control statements revisited w. Fibonacci sequence, and understanding higher-order function 
+-2026-04-10: 04.higher-order_function.py control statements revisited w. Fibonacci sequence, and understanding higher-order function 
 
 -2026-04-09: hw1.py cs61a hw1
 
