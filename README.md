@@ -1,6 +1,14 @@
 Numerical index related to personal summary on Composing Programs(https://www.composingprograms.com/) 
 
--2026-04-13: 03control.py Multiple environment and its diagram, docstring, and control 
+-2026-04-13: 05environments.py Environment diagram for higer-order functions, and nested definition, and Lambda expression, and Currying(Schonfinkeling) 
+
+-2026-04-11: hw2.py cs61a hw2 
+
+-2026-04-10:04.higher-order_function.py control statements revisited w. Fibonacci sequence, and understanding higher-order function 
+
+-2026-04-09: hw1.py cs61a hw1
+
+-2026-04-03: 03control.py Multiple environment and its diagram, docstring, and control 
 
 -2026-03-23: 02functions.py Assignment and definition of functions, how they are executed in environments, and note on print and None  
 
