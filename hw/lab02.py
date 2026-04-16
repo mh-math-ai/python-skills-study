@@ -139,17 +139,18 @@ TypeError
 
 >>> call_thrice = lambda f: lambda x: f(f(f(x)))
 >>> call_thrice(lambda y: y + 1)(0)
-______
+3
 
 >>> print_lambda = lambda z: print(z)  # When is the return expression of a lambda expression executed?
 >>> print_lambda
-______
+<function <lambda> at _____>
 
 >>> one_thousand = print_lambda(1000)
-______
+1000
 
 >>> one_thousand # What did the call to print_lambda return?
-______
+
+# print_lambda(1000) is value, which is None because print() returns None 
 
 """
 Q4: Composite Identity Function
@@ -174,3 +175,7 @@ def composite_identity(f, g):
     False
     """
     "*** YOUR CODE HERE ***"
+    def is_identity(x)
+        return f(g(x)) == g(f(x))
+    return is_identity 
+    
