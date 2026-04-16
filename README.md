@@ -1,5 +1,9 @@
 Numerical index related to personal summary on Composing Programs(https://www.composingprograms.com/) 
 
+-2026-04-17: lab02.py quiz on lambda expression, function composition part 
+
+-2026-04-16: lab02.py quiz on python environment, higher-order function part 
+
 -2026-04-15: 06Sounds.py making .wav file and understanding why we use higer-order functions
 
 -2026-04-13: 05environments.py Environment diagram for higer-order functions, and nested definition, and Lambda expression, and Currying(Schonfinkeling) 
