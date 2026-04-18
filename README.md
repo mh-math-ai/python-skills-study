@@ -1,5 +1,7 @@
 Numerical index related to personal summary on Composing Programs(https://www.composingprograms.com/) 
 
+-2026-04-18: 08function_examples.py more examples on environment diagrams, how Python works on layers of frames, also insight on implementing functions, and some use of function decorator 
+
 -2026-04-17: 07functioinal_abstraction.py environments of lambda function, return of function, naming of functions(conventions), and error & traceback  
 -2026-04-17: lab02.py quiz on lambda expression, function composition part 
 
