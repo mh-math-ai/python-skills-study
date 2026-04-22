@@ -1,5 +1,7 @@
 Numerical index related to personal summary on Composing Programs(https://www.composingprograms.com/) 
 
+-2026-04-22: 10tree_recursion.py orders of recursive calls to understand the behavior of recursive functions, and intro to tree recursion without remembering results so the computations are highly repetitive with examples like Fibonacci, and counting partitions.  
+
 -2026-04-21: 09recursion.py recursive functions, its anatomy, environmental diagrams, and mutual recursion, the difference between recursion and iteration and interchange of recursion and iteration  
 
 -2026-04-20: mid1.py cs61a midterm 1 (2024 fall) 
